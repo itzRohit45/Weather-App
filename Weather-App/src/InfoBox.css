@@ -1,0 +1,9 @@
+.InfoBox{
+    border: 2px solid rgba(0, 0, 0, 0.115);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.InfoBox:hover{
+    box-shadow: 1px 2px blue;
+}
