@@ -19,5 +19,7 @@ Ensure you have the following installed:
 2.**Starting application**:
     ```bash
     npm install(install required dependencies-node modules)
+    
     npm run dev
+    
     Open:http://localhost:3000(link-instance) in your browser to view the app.
