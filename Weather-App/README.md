@@ -17,7 +17,6 @@ Ensure you have the following installed:
    git clone https://github.com/itzRohit45/Weather-App.git
    cd Weather-App/Weather-App
 2.**Starting application**:
-    ```bash
     
     npm install(install required dependencies-node modules)
     
