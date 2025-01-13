@@ -1,8 +1,21 @@
-# React + Vite
+## 🚀 Getting Started
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Follow these instructions to set up and run the project on your local machine.
 
-Currently, two official plugins are available:
+### Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ensure you have the following installed:
+
+- **Node.js** (v14 or higher)
+- **npm** or **yarn**
+
+### Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/itzRohit45/Weather-App.git
+   cd Weather-App/Weather-App
+2.** Starting application
+    npm run dev
+    Open http://localhost:3000 in your browser to view the app.
