@@ -16,6 +16,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/itzRohit45/Weather-App.git
    cd Weather-App/Weather-App
-2.** Starting application
+2.**Starting application**:
+    npm install(install required dependencies-node modules)
     npm run dev
-    Open http://localhost:3000 in your browser to view the app.
+    Open:http://localhost:3000(link-instance) in your browser to view the app.
